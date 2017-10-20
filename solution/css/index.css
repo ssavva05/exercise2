@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+	margin: auto;
+	text-align: center;
+}
+
+h1 {
+    color: black;
+	font-family: verdana;
+}
+
+h2 {
+    color: brown;
+	font-family: verdana;
+}
+
+h3 {
+    color: green;
+	font-family: verdana;
+}
+
+p {
+    color: brown;
+    font-family: verdana;
+}
