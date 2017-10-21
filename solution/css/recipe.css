@@ -1,1 +1,48 @@
+body{
+	background-color: white;
+	color: #404040;
+	font-size: 11pt;
+	font-family:Serif;
+	font-family:Georgia;
+	font: Georgia,Garamond,Serif;
+	/*width:1024px;*/
+}
 
+h1, h2, h3, h4, h5, h6 { 
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-family:Serif;
+	font-family: Lucida Sans Unicode;
+	font: Lucida Sans Unicode, Helvetica,Arial,Serif;
+	text-decoration: underline;
+}
+
+h1{
+	font-size: 22pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+	font-size: 18pt;
+	text-align: left;
+	
+}
+
+a:link {
+    color: #A4A400;
+}
+
+#lastf{
+	font: monospace;
+}
+
+#quot{
+	font-style: italic;
+	background-color: #FFFFA8;
+	margin: 25pt;
+}
+
+#cir{
+list-style-type: circle;
+}
